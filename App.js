@@ -11,7 +11,6 @@ console.log ("your result percentage is " + a + " %");
 
 
 
-
 // Get user input for percentage
 // var percentage = prompt("Enter your percentage:");
 
